@@ -16,3 +16,7 @@ Profesor: Roberto Melo
 ### Diseño de Videojuegos
 Profesor: Héctor Guerrero
 - Estuve analizando diferentes juegos de mesa para escribir en un documento sus mecánicas, dinámicas, componentes y el objetivo para que pudiera crear mis propios juegos de mesa bien estructurados a partir de esos análisis.
+# Materia 5
+### Proyecto de App
+Profesor: Sebastian Mejia
+- Estoy aprendiendo a cómo utilizar las herramientas LaTeX, SQL y DIA para poder crear diagramas a partir de información dada por el profesor, siendo los Diagramas de casos de uso y Diagramas de entidad específicamente.
