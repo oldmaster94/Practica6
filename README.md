@@ -30,3 +30,5 @@ Maestra: Alina Sidorova
 - Estuvimos haciendo repasos de temas pasados para reforzarlos, que son sobre los comparative and superlative, Present y Past Simple y Continuous, y para evaluación hicimos una biografía de un personaje utilizando esos temas para elaborarlo.
 
 _Creando versión 1.0.0 de este repositorio._
+
+_Creando la versión 1.1.0 de este repositorio._
