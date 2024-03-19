@@ -32,3 +32,5 @@ Maestra: Alina Sidorova
 _Creando versión 1.0.0 de este repositorio._
 
 _Creando la versión 1.1.0 de este repositorio._
+
+[Práctica 8](Practica-8.md)
